@@ -1,4 +1,4 @@
-# cpanel-IDE-themes
+# cpanel-IDE-darkmode
 CSS for cPanel editor A.K.A. ACE cloud9
 
 <p align="center">
