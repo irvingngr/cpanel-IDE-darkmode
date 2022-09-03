@@ -36,6 +36,9 @@ CSS for cPanel editor A.K.A. ACE cloud9
 ### Dracula (Dark Theme)
 <img alt="dark-demo" src="https://user-images.githubusercontent.com/26981974/188287566-f9328933-520c-4d34-ad28-25fbc72bd6a4.gif">
 
+### Chaos (Dark Theme) - Soon
+
+### VS Code (Dark Theme) - Soon
 
 
 ## Disclaimer
