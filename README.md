@@ -18,10 +18,10 @@ CSS for cPanel editor A.K.A. ACE cloud9
 
 ```
 1. Install a CSS/JS injector.
-2. Copy the content from the desired CSS style.
-3. Paste it into the extension.
+2. Copy the CSS style.
+3. Paste it into the extension menu.
 4. (optional) If you are using *ABC JS-CSS Injector* you can specify a host for each CSS saved.
-5. Open cpanel editor
+5. Open cpanel editor, enjoy
 ```
 
 
