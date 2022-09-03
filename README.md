@@ -3,7 +3,7 @@ CSS for cPanel editor A.K.A. ACE cloud9
 
 <p align="center">
   <a href="#">
-    <img alt="cpss" src="https://github.com/irvingngr/cpanel-IDE-themes/blob/main/logo.png">
+    <img alt="cpss" src="https://user-images.githubusercontent.com/26981974/188287780-d1f35492-ba92-4345-8021-e3cd5ec00f2e.png">
   </a>
 </p>
 
