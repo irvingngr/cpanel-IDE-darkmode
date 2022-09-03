@@ -11,11 +11,8 @@ CSS for cPanel editor A.K.A. ACE cloud9
   Due to the inability to save the ACE IDE settings implemented in cPanel when <kbd>Ctrl</kbd> + <kbd>,</kbd> is pressed, I was forced to inject CSS to at least change the appearance of the cloud IDE. Yes, I know about much better and more advanced IDEs out there, but for those of us who are already used to making quick edits through cpanel, it doesn't hurt.
 </p>
 
-<p align="center">
   Any browser CSS injector extension should do the trick.
   Tested on Google Chrome & MS Edge using [ABC JS-CSS Injector](https://chrome.google.com/webstore/detail/abc-js-css-injector/dnoagfebjndkhkabjkkoeeijnjpmbimj)
-</p>
-
 
 ## Installation & Usage
 
@@ -32,6 +29,11 @@ CSS for cPanel editor A.K.A. ACE cloud9
 
 - [ABC JS-CSS Injector](https://chrome.google.com/webstore/detail/abc-js-css-injector/dnoagfebjndkhkabjkkoeeijnjpmbimj)
 - [ACE kitchen sink](https://ace.c9.io/build/kitchen-sink.html)
+
+
+## Demo
+
+<img alt="dark-demo" src="https://user-images.githubusercontent.com/26981974/188287566-f9328933-520c-4d34-ad28-25fbc72bd6a4.gif">
 
 
 ## Disclaimer
