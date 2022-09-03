@@ -3,7 +3,7 @@ CSS for cPanel editor A.K.A. ACE cloud9
 
 <p align="center">
   <a href="#">
-    <img alt="SweetAlert" src="https://raw.githubusercontent.com/t4t5/sweetalert/e3c2085473a0eb5a6b022e43eb22e746380bb955/assets/logotype.png" width="300">
+    <img alt="cpss" src="[https://raw.githubusercontent.com/t4t5/sweetalert/e3c2085473a0eb5a6b022e43eb22e746380bb955/assets/logotype.png">
   </a>
 </p>
 
@@ -11,7 +11,7 @@ Due to the inability to save the settings of the ACE IDE implemented in cPanel, 
 
 
 
-Any software or product offered here in this repository does not have any guarantee and is offered as is, it is intended to help the community and its publisher, creator does not benefit directly or indirectly in a monetary way. Sale prohibited.
+Any software or product offered in this repository does not have any guarantee and is offered as is, it is intended to help the community and its publisher, creator does not benefit directly or indirectly in a monetary way. Sale prohibited.
 
 cPanel is a registered trademark of cPanel LLC, no copyright infringement or commercial benefits intended. All rights, logos, names belongs to their respective owners.
 
