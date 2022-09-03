@@ -13,7 +13,7 @@ CSS for cPanel editor A.K.A. ACE cloud9
 
 <p align="center">
   Any browser CSS injector extension should do the trick.
-  Tested on Google Chrome & MS Edge using [ABC JS-CSS Injector](https://chrome.google.com/webstore/detail/abc-js-css-injector/dnoagfebjndkhkabjkkoeeijnjpmbimj).
+  Tested on Google Chrome & MS Edge using [ABC JS-CSS Injector](https://chrome.google.com/webstore/detail/abc-js-css-injector/dnoagfebjndkhkabjkkoeeijnjpmbimj)
 </p>
 
 
