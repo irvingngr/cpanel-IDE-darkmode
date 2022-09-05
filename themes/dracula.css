@@ -25,7 +25,7 @@
 .ace-chrome .ace_support.ace_class {font-style: italic;color: #66d9ef}
 .ace-chrome .ace_support.ace_type {font-style: italic;color: #66d9ef}
 .ace-chrome .ace_invalid {color: #F8F8F0;background-color: #ff79c6}
-.ace-chrome .ace_invalid.ace_deprecated {color: rgb(185, 33, 245)d-color: #bd93f9}
+.ace-chrome .ace_invalid.ace_deprecated {color: rgb(185, 33, 245); background-color: #bd93f9}
 .ace-chrome .ace_string {color: #f1fa8c}
 .ace-chrome .ace_comment {color: #6272a4}
 .ace-chrome .ace_variable {color: #50fa7b}
