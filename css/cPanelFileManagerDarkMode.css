@@ -1,0 +1,17 @@
+/* cPanel File Manager Dark Mode */
+#topnav .clear{background-color:#252525; color:#cccccc;}
+#topnav ul {background-color:#293a4a;color:#ffffff;}
+#topnav ul li a {color:#ffffff;}
+#subleft{background-color:#252525; color:#cccccc;}
+#subleft .input-group-addon{background-color:#252525; color:#cccccc;}
+#subleft #location {background-color:#404040; color:#ffffff;}
+#subright{background-color:#252525; color:#cccccc;}
+#subright .yui-dt-rec.yui-dt-first.yui-dt-even{background-color:#3b3b3b; color:#ffffff;}
+#subright .yui-dt-rec.yui-dt-even{background-color:#3b3b3b; color:#ffffff; border:2px solid #3b3b3b;}
+#subright .yui-dt-rec.yui-dt-odd{background-color:#252525; color:#cccccc; border:2px solid #252525;}
+#subright #midtoolbar{background-color: #252525;border:0px;}
+#filesarea thead th{background-color: black; color:#cccccc;}
+#filesarea .yui-dt8-fixedth-nicemode{background-color: black; color:#cccccc;}
+#filesarea table{border:0px; margin: 1px 1px 1px;}
+#filesarea tr.yui-dt-selected td{background-color: #435f7b; color:#ffffff;}
+#filesarea .yui-dt-bd {background-color: #181818;color:#ffffff;}

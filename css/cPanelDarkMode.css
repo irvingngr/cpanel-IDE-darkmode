@@ -1,0 +1,71 @@
+/* https://github.com/irvingngr/cpanel-darkmode */
+/* cPanel File Manager (Dark) + VS Code style (Dark) */
+#topnav .clear{background-color:#252525; color:#cccccc;}
+#topnav ul {background-color:#293a4a;color:#ffffff;}
+#topnav ul li a {color:#ffffff;}
+#subleft{background-color:#252525; color:#cccccc;}
+#subleft .input-group-addon{background-color:#252525; color:#cccccc;}
+#subleft #location {background-color:#404040; color:#ffffff;}
+#subright{background-color:#252525; color:#cccccc;}
+#subright .yui-dt-rec.yui-dt-first.yui-dt-even{background-color:#3b3b3b; color:#ffffff;}
+#subright .yui-dt-rec.yui-dt-even{background-color:#3b3b3b; color:#ffffff; border:2px solid #3b3b3b;}
+#subright .yui-dt-rec.yui-dt-odd{background-color:#252525; color:#cccccc; border:2px solid #252525;}
+#subright #midtoolbar{background-color: #252525;border:0px;}
+#filesarea thead th{background-color: black; color:#cccccc;}
+#filesarea .yui-dt8-fixedth-nicemode{background-color: black; color:#cccccc;}
+#filesarea table{border:0px; margin: 1px 1px 1px;}
+#filesarea tr.yui-dt-selected td{background-color: #435f7b; color:#ffffff;}
+#filesarea .yui-dt-bd {background-color: #181818;color:#ffffff;}
+.show-ace-editor {background-color: #252526} /*keyboard shortcuts and bottoms*/
+#ace-chrome
+.ace-chrome .ace_xml-pe .ace_doctype{color: #569cd6}
+.ace-chrome .ace_keyword {color: #d7ba7d}
+.ace-chrome .ace_paren.ace_lparen{color: #ffd700}
+.ace-chrome .ace_paren.ace_rparen{color: #ffd700}
+.ace-chrome .ace_meta.ace_tag.ace_punctuation.ace_tag-open{color: #808080}
+.ace-chrome .ace_meta.ace_tag.ace_punctuation.ace_tag-close{color: #808080}
+.ace-chrome .ace_meta.ace_tag.ace_punctuation.ace_end-tag-open{color: #808080}
+.ace-chrome .ace_meta.ace_tag.ace_tag-name{color: #569cd6}
+.ace-chrome .ace_gutter {background: #1e1e1e;color: #949090}
+.ace-chrome .ace_print-margin {width: 0px;}
+.ace-chrome .ace_string {color: #ce9178}
+.ace-chrome .ace_support.ace_php_tag {color: #5396ce}
+.ace-chrome .ace_support.ace_function {color: #c586c0}
+.ace-chrome .ace_support.ace_constant {color: #ce9178}
+.ace-chrome .ace_support.ace_class {color: #66d9ef}
+.ace-chrome .ace_support.ace_type {color: #9cdcfe}
+.ace-chrome .ace_keyword.ace_operator {color: #d4d4d4;}
+.ace-chrome .ace_identifier {color: #dcdcaa;}
+.ace-chrome .ace_entity .ace_other .ace_attribute-name{color: #9cdcfe}
+.ace-chrome .ace_constant.ace_language {color: #bd93f9}
+.ace-chrome .ace_constant.ace_numeric {color: #b5cea8}
+.ace-chrome .ace_constant.ace_character {color: #bd93f9}
+.ace-chrome .ace_constant.ace_character.ace_escape {color: #ff79c6}
+.ace-chrome .ace_constant.ace_other {color: #bd93f9}
+.ace-chrome {background-color: #1e1e1e; color: #f5f5f5}
+.ace-chrome .ace_cursor {color: #aeafad}
+.ace-chrome .ace_marker-layer .ace_selection {background: rgb(121, 129, 170);}
+.ace-chrome .ace_multiselect .ace_selection.ace_start {box-shadow: 0 0 3px 0px #282a36;border-radius: 2px}
+.ace-chrome .ace_marker-layer .ace_step {background: rgb(198, 219, 174)}
+.ace-chrome .ace_marker-layer .ace_bracket {margin: -1px 0 0 -1px;border: 1px solid #a29709}
+.ace-chrome .ace_marker-layer .ace_active-line {background: #474a5d}
+.ace-chrome .ace_gutter-active-line {background-color: #44475a}
+.ace-chrome .ace_marker-layer .ace_selected-word {border-radius: 4px;border: 8px solid #3f475d;box-shadow: 0 0 4px rgb(141, 240, 61);}
+.ace-chrome .ace_fold {background-color: #50fa7b; border-color: #f8f8f2}
+.ace-chrome .ace_invalid {color: #F8F8F0;background-color: #ff79c6}
+.ace-chrome .ace_invalid.ace_deprecated {color: rgb(185, 33, 245);background-color: #bd93f9}
+.ace-chrome .ace_comment {color: #6a9955}
+.ace-chrome .ace_variable {color: #9cdcfe}
+.ace-chrome .ace_variable.ace_parameter {font-style: italic;color: #ffb86c}
+.ace-chrome .ace_entity.ace_other.ace_attribute-name {color: #9cdcfe}
+.ace-chrome .ace_entity.ace_name.ace_function {color: #50fa9c}
+.ace-chrome .ace_entity.ace_name.ace_tag {color: #ff79c6}
+.ace-chrome .ace_storage {color: #ff79c6}
+.ace-chrome .ace_storage.ace_type {font-style: italic; color: #8be9fd}
+.ace-chrome .ace_invisible {color: #3b4fd1}
+.ace_scrollbar-v::-webkit-scrollbar:vertical {width: 11px;}
+.ace_scrollbar-h::-webkit-scrollbar:horizontal {height: 11px;}
+.ace_scrollbar::-webkit-scrollbar {width: 8px;height: 8px;}
+.ace_scrollbar::-webkit-scrollbar-track {background-color: rgba(0, 0, 0, 0.4);border-radius: 10px;}
+.ace_scrollbar::-webkit-scrollbar-thumb {background-color: #5d5f7a;border-radius: 10px;}
+.ace-chrome .ace_indent-guide {background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWNgYGBgYHB3d/8PAAOIAdULw8qMAAAAAElFTkSuQmCC) right repeat-y}
