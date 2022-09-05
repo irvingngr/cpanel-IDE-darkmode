@@ -1,5 +1,5 @@
 # cpanel-darkmode
-CSS for cPanel editor A.K.A. ACE cloud9
+CSS for cPanel File Manager & Code Editor
 
 <p align="center">
   <a href="#">
