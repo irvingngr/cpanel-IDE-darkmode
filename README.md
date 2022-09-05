@@ -44,8 +44,8 @@ PHP
 
 ### Monokai (Dark Theme) - Soon
 
-### VS Code (Dark Theme) - Soon
-
+### VS Code (Dark Theme)
+<img alt="vscode-dark-demo" src="https://user-images.githubusercontent.com/26981974/188505130-8b9cf7d5-19f0-46fd-98ad-1ad189e99bca.gif">
 
 ## Disclaimer
 
