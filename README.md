@@ -38,6 +38,8 @@ CSS for cPanel editor A.K.A. ACE cloud9
 
 ### Chaos (Dark Theme) - Soon
 
+### Monokai (Dark Theme) - Soon
+
 ### VS Code (Dark Theme) - Soon
 
 
