@@ -13,7 +13,7 @@
 .ace-chrome .ace_marker-layer .ace_bracket {margin: -1px 0 0 -1px;border: 1px solid #a29709}
 .ace-chrome .ace_marker-layer .ace_active-line {background: #474a5d}
 .ace-chrome .ace_gutter-active-line {background-color: #44475a}
-.ace-chrome .ace_marker-layer .ace_selected-word {border-radius: 4px;border: 8px solid #3f475d;box-shadow: 0 0 4px rgb(141, 240, 61);}
+.ace-chrome .ace_marker-layer .ace_selected-word {background: #3f475d; border-radius: 4px;border: 8px solid #3f475d;}
 .ace-chrome .ace_fold {background-color: #50fa7b;border-color: #f8f8f2}
 .ace-chrome .ace_constant.ace_language {color: #bd93f9}
 .ace-chrome .ace_constant.ace_numeric {color: #bd93f9}
@@ -25,7 +25,7 @@
 .ace-chrome .ace_support.ace_class {font-style: italic;color: #66d9ef}
 .ace-chrome .ace_support.ace_type {font-style: italic;color: #66d9ef}
 .ace-chrome .ace_invalid {color: #F8F8F0;background-color: #ff79c6}
-.ace-chrome .ace_invalid.ace_deprecated {color: rgb(185, 33, 245); background-color: #bd93f9}
+.ace-chrome .ace_invalid.ace_deprecated {color: rgb(185, 33, 245);background-color: #bd93f9}
 .ace-chrome .ace_string {color: #f1fa8c}
 .ace-chrome .ace_comment {color: #6272a4}
 .ace-chrome .ace_variable {color: #50fa7b}
@@ -40,22 +40,9 @@
 .ace-chrome .ace_xml-pe {color: rgb(142, 142, 142);}
 .ace-chrome .ace_invisible {color: #626680}
 .ace-chrome .ace_keyword.ace_operator {color: rgb(216, 58, 255);}
-.ace_scrollbar-v::-webkit-scrollbar:vertical {
-    width: 11px;
-}
-.ace_scrollbar-h::-webkit-scrollbar:horizontal {
-    height: 11px;
-}
-.ace_scrollbar::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
-  }
-  .ace_scrollbar::-webkit-scrollbar-track {
-    background-color: rgba(0, 0, 0, 0.4);
-    border-radius: 10px;
-  }
-  .ace_scrollbar::-webkit-scrollbar-thumb {
-    background-color: #5d5f7a;
-    border-radius: 10px;
-  }
+.ace_scrollbar-v::-webkit-scrollbar:vertical {width: 11px;}
+.ace_scrollbar-h::-webkit-scrollbar:horizontal {height: 11px;}
+.ace_scrollbar::-webkit-scrollbar {width: 8px;height: 8px;}
+.ace_scrollbar::-webkit-scrollbar-track {background-color: rgba(0, 0, 0, 0.4);border-radius: 10px;}
+.ace_scrollbar::-webkit-scrollbar-thumb {background-color: #5d5f7a;border-radius: 10px;}
 .ace-chrome .ace_indent-guide {background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWNgYGBgYHB3d/8PAAOIAdULw8qMAAAAAElFTkSuQmCC) right repeat-y}
