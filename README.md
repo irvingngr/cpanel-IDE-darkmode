@@ -30,6 +30,10 @@ CSS for cPanel editor A.K.A. ACE cloud9
 - [ABC JS-CSS Injector](https://chrome.google.com/webstore/detail/abc-js-css-injector/dnoagfebjndkhkabjkkoeeijnjpmbimj)
 - [ACE kitchen sink](https://ace.c9.io/build/kitchen-sink.html)
 
+## Language Support
+```
+PHP
+```
 
 ## Demo
 
