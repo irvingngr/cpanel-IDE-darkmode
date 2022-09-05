@@ -41,7 +41,7 @@
 .ace-chrome .ace_comment {color: #6a9955}
 .ace-chrome .ace_variable {color: #9cdcfe}
 .ace-chrome .ace_variable.ace_parameter {font-style: italic;color: #ffb86c}
-.ace-chrome .ace_entity.ace_other.ace_attribute-name {color: #50fa7b}
+.ace-chrome .ace_entity.ace_other.ace_attribute-name {color: #9cdcfe}
 .ace-chrome .ace_entity.ace_name.ace_function {color: #50fa9c}
 .ace-chrome .ace_entity.ace_name.ace_tag {color: #ff79c6}
 .ace-chrome .ace_storage {color: #ff79c6}
