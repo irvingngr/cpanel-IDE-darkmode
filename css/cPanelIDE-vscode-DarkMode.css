@@ -15,7 +15,7 @@
 .ace-chrome .ace_string {color: #ce9178}
 .ace-chrome .ace_support.ace_php_tag {color: #5396ce}
 .ace-chrome .ace_support.ace_function {color: #c586c0}
-.ace-chrome .ace_support.ace_constant {color: #ce9178}
+.ace-chrome .ace_support.ace_constant {color: #f7b438}
 .ace-chrome .ace_support.ace_class {color: #66d9ef}
 .ace-chrome .ace_support.ace_type {color: #9cdcfe}
 .ace-chrome .ace_keyword.ace_operator {color: #d4d4d4;}
@@ -28,13 +28,13 @@
 .ace-chrome .ace_constant.ace_other {color: #bd93f9}
 .ace-chrome {background-color: #1e1e1e; color: #f5f5f5}
 .ace-chrome .ace_cursor {color: #aeafad}
-.ace-chrome .ace_marker-layer .ace_selection {background: rgb(121, 129, 170);}
 .ace-chrome .ace_multiselect .ace_selection.ace_start {box-shadow: 0 0 3px 0px #282a36;border-radius: 2px}
 .ace-chrome .ace_marker-layer .ace_step {background: rgb(198, 219, 174)}
-.ace-chrome .ace_marker-layer .ace_bracket {margin: -1px 0 0 -1px;border: 1px solid #a29709}
-.ace-chrome .ace_marker-layer .ace_active-line {background: #474a5d}
+.ace-chrome .ace_marker-layer .ace_bracket {border: 1px solid #c6c6c6}
+.ace-chrome .ace_marker-layer .ace_selection {background: #264f78;}
+.ace-chrome .ace_marker-layer .ace_active-line {background: #1e1e1e; border: 2px solid #282828;}
+.ace-chrome .ace_marker-layer .ace_selected-word {border-radius: 4px;border: 8px solid #264f78;}
 .ace-chrome .ace_gutter-active-line {background-color: #44475a}
-.ace-chrome .ace_marker-layer .ace_selected-word {border-radius: 4px;border: 8px solid #3f475d;box-shadow: 0 0 4px rgb(141, 240, 61);}
 .ace-chrome .ace_fold {background-color: #50fa7b; border-color: #f8f8f2}
 .ace-chrome .ace_invalid {color: #F8F8F0;background-color: #ff79c6}
 .ace-chrome .ace_invalid.ace_deprecated {color: rgb(185, 33, 245);background-color: #bd93f9}
@@ -42,7 +42,7 @@
 .ace-chrome .ace_variable {color: #9cdcfe}
 .ace-chrome .ace_variable.ace_parameter {font-style: italic;color: #ffb86c}
 .ace-chrome .ace_entity.ace_other.ace_attribute-name {color: #9cdcfe}
-.ace-chrome .ace_entity.ace_name.ace_function {color: #50fa9c}
+.ace-chrome .ace_entity.ace_name.ace_function {color: #39ecb1}
 .ace-chrome .ace_entity.ace_name.ace_tag {color: #ff79c6}
 .ace-chrome .ace_storage {color: #ff79c6}
 .ace-chrome .ace_storage.ace_type {font-style: italic; color: #8be9fd}
