@@ -35,7 +35,7 @@ CSS for cPanel File Manager & Code Editor
 PHP
 ```
 
-## Demo
+## Previews
 
 ### Dracula (Dark Theme)
 <img alt="dark-demo" src="https://user-images.githubusercontent.com/26981974/188287566-f9328933-520c-4d34-ad28-25fbc72bd6a4.gif">
@@ -46,6 +46,10 @@ PHP
 
 ### VS Code (Dark Theme)
 <img alt="vscode-dark-demo" src="https://user-images.githubusercontent.com/26981974/188505130-8b9cf7d5-19f0-46fd-98ad-1ad189e99bca.gif">
+
+### File Manager (Dark)
+
+<img alt="file-manager-dark-demo" src="https://user-images.githubusercontent.com/26981974/188522572-fc0bb51a-1102-4d16-946b-3ad8c37790fc.gif">
 
 ## Disclaimer
 
