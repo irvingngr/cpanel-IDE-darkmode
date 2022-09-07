@@ -33,7 +33,7 @@
 .ace-chrome .ace_marker-layer .ace_bracket {border: 1px solid #c6c6c6}
 .ace-chrome .ace_marker-layer .ace_selection {background: #264f78;}
 .ace-chrome .ace_marker-layer .ace_active-line {background: #1e1e1e; border: 2px solid #282828;}
-.ace-chrome .ace_marker-layer .ace_selected-word {border-radius: 4px;border: 8px solid #264f78;}
+.ace-chrome .ace_marker-layer .ace_selected-word {border-radius: 4px;background: #264f78; border: 1px solid #264f78;}
 .ace-chrome .ace_gutter-active-line {background-color: #44475a}
 .ace-chrome .ace_fold {background-color: #50fa7b; border-color: #f8f8f2}
 .ace-chrome .ace_invalid {color: #F8F8F0;background-color: #ff79c6}
